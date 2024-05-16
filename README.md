@@ -1,7 +1,7 @@
 # haversine [![Go Reference](https://pkg.go.dev/badge/github.com/servusdei2018/haversine.svg)](https://pkg.go.dev/github.com/servusdei2018/haversine)
 
 
-Haversine provides a function to calculate the distance in kilometers between two geographic points using the Haversine formula.
+Haversine provides a function to calculate the distance in kilometers between two geographic points using the [Haversine formula](https://en.wikipedia.org/wiki/Haversine_formula).
 
 ## Installation
 
